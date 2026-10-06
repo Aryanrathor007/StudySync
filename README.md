@@ -17,7 +17,6 @@ An AI-powered study companion designed to help students stay focused, organized,
 - TypeScript
 - Tailwind CSS
 - Supabase
-- Bolt.new
 
 ## 🚀 Getting Started
 
